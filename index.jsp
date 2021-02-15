@@ -10,7 +10,7 @@
 <body>
 	<header>
 		<div class="imagencabecero">
-			<h2>Inmobiliaria Moralzarzal</h2>
+			<h2>Inmobiliaria SigloXXI</h2>
 		</div>
 
 		<div class="topnav">
